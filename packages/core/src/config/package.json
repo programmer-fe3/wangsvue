@@ -1,0 +1,5 @@
+{
+    "main": "./WangsVue.js",
+    "module": "./WangsVue.js",
+    "types": "./WangsVue.d.ts"
+}

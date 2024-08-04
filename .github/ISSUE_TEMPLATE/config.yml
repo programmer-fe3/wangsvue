@@ -1,0 +1,7 @@
+contact_links:
+    - name: Feature request
+      url: https://github.com/orgs/wangsfaces/discussions/categories/wangsvue
+      about: Propose an enhancement at discussions.
+    - name: Support
+      url: https://wangsvue.org/support/
+      about: Professional support for the open source innovation.

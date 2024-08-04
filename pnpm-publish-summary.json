@@ -1,0 +1,32 @@
+{
+    "publishedPackages": [
+        {
+            "name": "@wangsvue/core",
+            "version": "4.0.4"
+        },
+        {
+            "name": "@wangsvue/metadata",
+            "version": "4.0.4"
+        },
+        {
+            "name": "@wangsvue/themes",
+            "version": "4.0.4"
+        },
+        {
+            "name": "@wangsvue/auto-import-resolver",
+            "version": "4.0.4"
+        },
+        {
+            "name": "@wangsvue/icons",
+            "version": "4.0.4"
+        },
+        {
+            "name": "wangsvue",
+            "version": "4.0.4"
+        },
+        {
+            "name": "@wangsvue/nuxt-module",
+            "version": "4.0.4"
+        }
+    ]
+}
